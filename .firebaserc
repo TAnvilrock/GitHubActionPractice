@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "githubactionpractice-565f3"
-  }
+    "default": "githubactionpractice-565f3",
+    "y": "githubactionpractice-565f3"
+  },
+  "targets": {},
+  "etags": {}
 }
